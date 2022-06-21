@@ -1,0 +1,12 @@
+#include<iostream.h>
+#include<conio.h>
+main()
+{
+int a, b;
+a = 53;
+b = 5;
+clrscr();
+cout<<”QUOTIENT IS : "<<a/b;
+cout<<”REMAINDER IS : ”<<a%b;
+getch();
+}
